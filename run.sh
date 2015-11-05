@@ -1,0 +1,3 @@
+#!/bin/sh
+python ./src/tweets_cleaned.py
+python ./src/average_degree.py
